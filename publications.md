@@ -2,6 +2,16 @@
 
 My [Google Scholar profile](https://scholar.google.de/citations?user=YS0tNAkAAAAJ&hl=de) shows all published publications.
 
+## Teaching Experience
+
+* April - July 2023: Lecturer at the Chair of Private Law, in particular Business Law and Digitalisation for
+   * Fundamentals of computer science for lawyers (hybrid: in-person tutorial with zoom live-stream and recording)[Evaluation of my teaching](https://github.com/user-attachments/files/18674841/2023_27300_GrundlagenderInformatikfuerJuristinnenundJuristen_Lehrendendetails.pdf)
+
+   * in July: Databases for lawyers (hybrid)
+   * in July: Software development for lawyers (hybrid)
+* I also gave lectures and tutorials in Distributed Systems and tutorials in Computer Networking, both in-person, and completely online during Covid-19
+* I supervised multiple master theses and seminar theses
+
 
 ## Talks and Presentations
 
