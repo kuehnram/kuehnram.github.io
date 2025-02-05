@@ -33,10 +33,6 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
----
-title: "Publications, Talks, Teaching"
-layout: default
----
 
 # Exclude from processing.
 # The following items will not be processed, by default.
