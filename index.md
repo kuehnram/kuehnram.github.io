@@ -1,6 +1,6 @@
-# Ramona Kühn
+# Hey, I am Ramona Kühn!
 <img src="https://github.com/user-attachments/assets/83035390-514d-42d2-93a9-72a4746e19e7" width="250" align="right"/>
-Hey, I am Ramona Kühn! I am a **software quality consultant*, **researcher**, and **computer scientist**.
+I am a **software quality consultant**, **researcher**, and **computer scientist**.
 
 With [Teamscale by CQSE](https://teamscale.com/), I help developers and testers to find more bugs in less time and to speed up their test suite with the help of AI.
 
